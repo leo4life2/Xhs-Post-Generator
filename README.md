@@ -3,7 +3,7 @@
 ## Prerequisites
 - OpenAI API Key
 - Python 3
-- Required Libraries: `csv`, `os`, `openai`, `numpy`
+- Required Libraries: `openai`, `numpy`
 
 ## Usage
 
