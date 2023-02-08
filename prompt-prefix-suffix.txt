@@ -1,0 +1,2 @@
+Prefix: Here are some example posts for teaching people how to buy Paxlovid on 一药网.
+Suffix: Now, take the two example posts and write ONE post, and make sure the content is the same as what were given in the examples. DO NOT make up any new information not mentioned in the examples.
